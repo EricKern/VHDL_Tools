@@ -1,1 +1,8 @@
 **/ModelSim/work/**
+*.qws
+**/db/
+**/incremental_db/
+**/simulation/
+**/output_files/
+*.bak
+*.rpt
